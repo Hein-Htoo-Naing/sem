@@ -24,9 +24,5 @@ buildNumber.properties
 .mvn/timing.properties
 .mvn/wrapper/maven-wrapper.jar
 
-# IntelliJ IDE files
+# IntelliJ specific files
 .idea/
-*.iml
-*.iws
-*.ipr
-out/
