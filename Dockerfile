@@ -1,4 +1,4 @@
-﻿FROM eclipse-temurin:25-jdk
-WORKDIR /app
-COPY target/*.jar app.jar
-ENTRYPOINT ["java", "-jar", "app.jar"]
+FROM eclipse-temurin:25
+COPY ./target/seMethods-1.0-SNAPSHOT-jar-with-dependencies.jar /tmp
+WORKDIR /tmp
+ENTRYPOINT ["java", "-jar", "seMethods-1.0-SNAPSHOT-jar-with-dependencies.jar"]

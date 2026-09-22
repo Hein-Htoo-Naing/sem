@@ -1,7 +1,6 @@
-![workflow](https://github.com/Hein-Htoo-Naing/sem/actions/workflows/main.yml/badge.svg)
+# Software Engineering Methods
 
-[![LICENSE](https://img.shields.io/github/license/Hein-Htoo-Naing/sem.svg?style=flat-square)](https://github.com/Hein-Htoo-Naing/sem/blob/master/LICENSE)
-
-[![Releases](https://img.shields.io/github/release/Hein-Htoo-Naing/sem/all.svg?style=flat-square)](https://github.com/Hein-Htoo-Naing/sem/releases)
-
-![Develop Build Status](https://img.shields.io/github/actions/workflow/status/Hein-Htoo-Naing/sem/main.yml?branch=develop&style=flat-square)
+* Master Build Status [![Build Status](https://img.shields.io/github/actions/workflow/status/kaungmyatlwin18/devops/main.yml?branch=master&style=flat-square)](https://github.com/kaungmyatlwin18/devops/actions)
+* Develop Build Status [![Build Status](https://img.shields.io/github/actions/workflow/status/kaungmyatlwin18/devops/main.yml?branch=develop&style=flat-square)](https://github.com/kaungmyatlwin18/devops/actions)
+* License [![LICENSE](https://img.shields.io/github/license/kaungmyatlwin18/devops.svg?style=flat-square)](https://github.com/kaungmyatlwin18/devops/blob/master/LICENSE)
+* Release [![Releases](https://img.shields.io/github/release/kaungmyatlwin18/devops/all.svg?style=flat-square)](https://github.com/kaungmyatlwin18/devops/releases)
