@@ -1,0 +1,26 @@
+@startuml
+left to right direction
+
+skinparam monochrome true
+skinparam shadowing false
+skinparam packageStyle rectangle
+
+actor "Organisation Analyst" as Analyst
+
+rectangle "Population Reporting System" {
+    usecase "View country reports" as UC1
+    usecase "View city reports" as UC2
+    usecase "View capital city reports" as UC3
+    usecase "View city and non-city\npopulation breakdown" as UC4
+    usecase "Look up population totals" as UC5
+    usecase "View language speaker report" as UC6
+}
+
+Analyst -- UC1
+Analyst -- UC2
+Analyst -- UC3
+Analyst -- UC4
+Analyst -- UC5
+Analyst -- UC6
+
+@enduml
